@@ -24,7 +24,7 @@ This project demonstrates a comprehensive approach to Data Security and Availabi
 I secured the storage account by disabling public access and permitting only "Selected Networks." To verify the security posture, I attempted to access the data from an unauthorized network, which resulted in a not authorized response. </b2> 
   <p align="center">
     <img width="960" height="434" alt="7f - access allowed into container since configuration allows access from all network" src="https://github.com/user-attachments/assets/2024e679-cb85-4089-b641-b30df62c7128" />
-<br />
+      <br />
     User access granted from external networks prior to the enforcement of access for only Select Network
     <br />
   </p>
