@@ -90,4 +90,4 @@ I configured a Replication Policy to ensure Business Continuity. By replicating 
 <h2>Summary</h2>
 This project showcases the ability to manage data throughout its entire lifecycle, from secure creation and daily usage to long-term archiving and emergency recovery. It demonstrates the technical proficiency required to maintain high availability in a modern enterprise cloud environment. <br />
 
-For a detailed breakdown of the technical implementation, specific configurations, and in-depth analysis, please refer to the [Full Project Report](https://github.com/TaiwoG1/) <br />
+For a detailed breakdown of the technical implementation, specific configurations, and in-depth analysis, please refer to the [Full Project Report](https://github.com/TaiwoG1/AzureStorageBackupBCDR/blob/main/AzureStorage_Backups_BusinessContinuity_DisasterRecoveryReport.pdf) <br />
